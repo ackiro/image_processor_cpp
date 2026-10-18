@@ -1,0 +1,19 @@
+# Папки сборки (создаются CMake)
+build/
+out/
+cmake-build-*/
+
+# Исполняемые файлы и объекты
+*.exe
+*.o
+*.obj
+*.out
+
+# Файлы IDE (Visual Studio, CLion, VS Code)
+.vs/
+.vscode/
+.idea/
+
+# Системный мусор
+.DS_Store
+Thumbs.db
